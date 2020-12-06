@@ -185,7 +185,7 @@ function reset(){
   gameState = PLAY;
   gameOver.visible = false;
   restart.visible = false;
-  
+  ninja.visible = true;
   starGroup.destroyEach();
   
   
